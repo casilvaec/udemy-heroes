@@ -1,4 +1,0 @@
-# Flash
-
-The Flash (Bartolomé Henry Allen) es un superhéroe que aparece en los cómics publicados por DC Comics. El personaje apareció por primera vez en Showcase # 4 (octubre de 1956), creado por el escritor Robert Kanigher y el dibujante Carmine Infantino. Barry Allen es una reinvención de un personaje anterior llamado Flash, que apareció en los cómics de la década de 1940 llamado Jay Garrick. Su poder consiste principalmente en la velocidad sobrehumana. Varios otros efectos también se atribuyen a su capacidad para controlar la velocidad de las vibraciones moleculares, incluida su capacidad para vibrar a la velocidad para pasar a través de los objetos. El Flash lleva un distintivo traje rojo y dorado tratado para resistir la fricción y la resistencia al viento, tradicionalmente almacenando el traje comprimido dentro de un anillo.
-
